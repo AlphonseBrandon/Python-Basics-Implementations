@@ -13,6 +13,12 @@ for person in people:
         break
     print(f'current person: {person}')
 
+# Continue 
+for person in person:
+    if person == 'Brandon':
+        continue
+    print(f'current person: {person}')
+
 
 
 # While loops execute a set of statements as long as a condition is true.
