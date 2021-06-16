@@ -22,7 +22,10 @@ for person in person:
 # range
 for i in range(len(people)):
     print(people[i])
-    
+
+for i in range(0, 11):
+    print(f'number: {i}')
+
 
 
 
