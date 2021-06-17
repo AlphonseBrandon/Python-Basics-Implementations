@@ -31,6 +31,10 @@ if x > 2 and x <= 10:
 if x > 2 or x <= 10:
     print(f'{x} is greater than 2 and less than or eqall to 10')
 
+#not
+if not(x == y):
+    print(f'{x} is not equall to {y}')
+
 # Membership Operators (in, not in) - Membership operators are used to test if a sequence is presented in an object
 
 
