@@ -43,4 +43,8 @@ numbers = [1,2,3,4,5]
 if x in numbers:
     print(x in numbers)
 
+# not in
+if x not in numbers:
+    print(x not in numbers)
+
 # Identity Operators (is, is not) - Compare the objects, not if they are equal, but if they are actually the same object, with the same memory location:
