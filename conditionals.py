@@ -50,3 +50,7 @@ if x not in numbers:
 # Identity Operators (is, is not) - Compare the objects, not if they are equal, but if they are actually the same object, with the same memory location:
 if x is y:
     print(x is y)
+
+#not
+if x is not y:
+    print(x is not y)
