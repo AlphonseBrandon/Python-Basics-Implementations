@@ -37,7 +37,10 @@ if not(x == y):
 
 # Membership Operators (in, not in) - Membership operators are used to test if a sequence is presented in an object
 
+numbers = [1,2,3,4,5]
 
-
+# in
+if x in numbers:
+    print(x in numbers)
 
 # Identity Operators (is, is not) - Compare the objects, not if they are equal, but if they are actually the same object, with the same memory location:
