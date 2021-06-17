@@ -35,7 +35,7 @@ if x > 2 or x <= 10:
 if not(x == y):
     print(f'{x} is not equall to {y}')
 
-# Membership Operators (in, not in) - Membership operators are used to test if a sequence is presented in an object
+# Membership Operators (in, not in) - Membership operators are used to test if a sequence is presented in an object:
 
 numbers = [1,2,3,4,5]
 
