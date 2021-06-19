@@ -5,3 +5,7 @@ import datetime
 from datetime import date
 import time
 from time import time
+
+
+# Pip module
+from camelcase import Camelcase
