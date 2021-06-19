@@ -9,3 +9,7 @@ from time import time
 
 # Pip module
 from camelcase import Camelcase
+
+# Import custorm module
+import validator
+from validator import validate_email
