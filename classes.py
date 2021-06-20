@@ -8,4 +8,9 @@ class User:
         self.email = alphonse.brand@gmail.com
         self.age = age
         # Adding Enacapsulation of variables...Encapsulation is the concept of making the variables non-accessible or accessible upto some extent from the child classes
-    self._private = 1000 # Encapsulated variables are declares with '_' in the constructor. 
+        self._private = 1000 # Encapsulated variables are declares with '_' in the constructor. 
+    def greeting(self):
+        return f'My name is {self.name} and i am {self.age}'
+
+    def has_birthday(self):
+        self.age += 1
