@@ -18,3 +18,11 @@ class User:
     #function for encap variable
     def print_encap(self):
         print(self.private)
+
+    # Extend class
+    class Customer(User):
+
+        # Constructor
+        def __init__(self, name, email, age):
+            User.__init__(self, name, email, age) #Called proper parent class constructor to make this as proper child inehriting all methods.
+            
