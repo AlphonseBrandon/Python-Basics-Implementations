@@ -8,6 +8,7 @@ from time import time
 
 
 # Pip module
+import camelcase
 from camelcase import Camelcase
 
 # Import custorm module
@@ -19,3 +20,11 @@ today = date.today()
 timestamp = time()
 
 c = Camelcase()
+
+# print (c.hump('hello there Alphonse'))
+
+email = 'alphonse.brand@gmail.com'
+if validate_email(email):
+    print('email is valid')
+else:
+    print('Email is invalid')
