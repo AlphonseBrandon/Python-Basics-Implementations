@@ -29,4 +29,12 @@ class User:
             self.email = email
             self.age = age
             self.balance = 0
+
         def set_balance(self, balance):
+            self.balance - balance
+
+        def greeting(self):
+            return f'My name is {self.name} and I am {self.age} and my balance is {self.balance}'
+
+        # init user object
+        
