@@ -39,3 +39,7 @@ class User:
         # init user object
         brad = User('Alphonse Brandon', 'alphonse.brand@gmail.com', 90)
         #init customer object
+        janet = Customer('Brandon Alphonse', 'alphonse.brand@gmail.com', 80)
+
+        janet.set_balance(600) # create function
+        
