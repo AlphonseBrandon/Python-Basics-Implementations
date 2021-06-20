@@ -54,3 +54,10 @@ class User:
         brad._private = 800 # changing for brad
         brad.print_encap()
 
+        # Method inherited from parent
+        janet.print_encap() # changing the variable for brad doesn't affect janets variable --> Encapsulation
+        janet._private = 500
+        janet.print_encap()
+
+        #Similary changing janet's doesn't affect brad's variable.
+        brad.print_encap()
