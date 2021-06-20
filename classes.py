@@ -14,3 +14,7 @@ class User:
 
     def has_birthday(self):
         self.age += 1
+
+    #function for encap variable
+    def print_encap(self):
+        print(self.private)
