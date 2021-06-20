@@ -25,4 +25,7 @@ class User:
         # Constructor
         def __init__(self, name, email, age):
             User.__init__(self, name, email, age) #Called proper parent class constructor to make this as proper child inehriting all methods.
-            
+            self.name = name
+            self.email = email
+            self.age = age
+            self.balance = 0
