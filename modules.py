@@ -13,3 +13,9 @@ from camelcase import Camelcase
 # Import custorm module
 import validator
 from validator import validate_email
+
+# today = datetime.date.today()
+today = date.today()
+timestamp = time()
+
+c = Camelcase()
