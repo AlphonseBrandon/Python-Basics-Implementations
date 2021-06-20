@@ -42,4 +42,15 @@ class User:
         janet = Customer('Brandon Alphonse', 'alphonse.brand@gmail.com', 80)
 
         janet.set_balance(600) # create function
-        
+        def sayHello(name='Brand'):
+            print(f'Hello {name}')
+        print(janet.greeting())
+
+        brad.has_birthday()
+        print(brad.greeting())
+
+        # Encapsulation 
+        brad.print_encap()
+        brad._private = 800 # changing for brad
+        brad.print_encap()
+
