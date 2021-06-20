@@ -37,4 +37,5 @@ class User:
             return f'My name is {self.name} and I am {self.age} and my balance is {self.balance}'
 
         # init user object
-        
+        brad = User('Alphonse Brandon', 'alphonse.brand@gmail.com', 90)
+        #init customer object
