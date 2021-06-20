@@ -29,3 +29,4 @@ class User:
             self.email = email
             self.age = age
             self.balance = 0
+        def set_balance(self, balance):
