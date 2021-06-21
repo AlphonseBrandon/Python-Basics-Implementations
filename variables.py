@@ -36,3 +36,5 @@ print(a)
 x = str(x)
 y = int(y)
 z = float(y)
+
+print(type(z), z)
