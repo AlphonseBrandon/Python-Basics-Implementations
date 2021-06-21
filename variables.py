@@ -13,3 +13,14 @@ VARIABLE RULES:
   - Must start with a letter or an underscore
   - Can have numbers but can not start with one
 """
+
+# Variable types
+
+# int
+x = 1
+# float           
+y = 2.5
+# String
+name = 'Alphonse'
+# Bolean
+is_cool = True
