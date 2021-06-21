@@ -24,3 +24,10 @@ y = 2.5
 name = 'Alphonse'
 # Bolean
 is_cool = True
+
+# Multiple assignment
+x, y, name, is_cool = (1, 2.5, 'Alphonse', True)
+
+# Basic math
+a = x + y
+print(a)
