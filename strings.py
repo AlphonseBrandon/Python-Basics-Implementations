@@ -33,3 +33,6 @@ print(s.swapcase())
 
 # Get length
 print(len(s))
+
+# Replace
+print(s.replace('Hello', 'I am' ))
