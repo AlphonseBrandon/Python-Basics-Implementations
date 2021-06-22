@@ -36,3 +36,7 @@ print(len(s))
 
 # Replace
 print(s.replace('Hello', 'I am' ))
+
+# Count
+sub = 'h'
+print(s.count(sub))
