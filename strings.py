@@ -18,7 +18,7 @@ print('My name is {name} and i am {age}'.format(name=name, age=age))
 print(f'Hello, my name is {name} and i am {age}')
 
 # String Methods
-s = 'HelloAlphonse'
+s = 'Hello Alphonse!'
  # Capitalize string
 print(s.capitalize())
 
@@ -52,3 +52,6 @@ print(s.find('n'))
 
 # Is all alphanumeric
 print(s.isalnum())
+
+# Is all alphabet 
+print(s.isalpha())
