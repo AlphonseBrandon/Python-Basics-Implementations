@@ -18,7 +18,7 @@ print('My name is {name} and i am {age}'.format(name=name, age=age))
 print(f'Hello, my name is {name} and i am {age}')
 
 # String Methods
-s = 'Hello Alphonse!'
+s = 'Hello\tAlphonse!'
  # Capitalize string
 print(s.capitalize())
 
@@ -64,3 +64,6 @@ print(s.center(10))
 
 # Encode
 print(s.encode(encoding="utf-8", errors="strict"))
+
+# Expandtabs
+print(s.expandtabs(tabsize= 4))
