@@ -27,3 +27,6 @@ print(s.upper())
 
 # Make all lower case
 print(s.lower())
+
+# Swap case
+print(s.swapcase())
