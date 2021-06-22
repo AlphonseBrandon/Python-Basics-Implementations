@@ -61,3 +61,6 @@ print(s.isnumeric())
 
 # Center
 print(s.center(10))
+
+# Encode
+print(s.encode(encoding="utf-8", errors="strict"))
