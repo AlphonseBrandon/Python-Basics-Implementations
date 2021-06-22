@@ -30,3 +30,6 @@ print(s.lower())
 
 # Swap case
 print(s.swapcase())
+
+# Get length
+print(len(s))
