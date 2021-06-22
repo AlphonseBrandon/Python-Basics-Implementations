@@ -53,5 +53,8 @@ print(s.find('n'))
 # Is all alphanumeric
 print(s.isalnum())
 
-# Is all alphabet 
+# Is all alphabetic 
 print(s.isalpha())
+
+# is all numeric
+print(s.isnumeric())
