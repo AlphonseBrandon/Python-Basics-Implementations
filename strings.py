@@ -40,3 +40,6 @@ print(s.replace('Hello', 'I am' ))
 # Count
 sub = 'h'
 print(s.count(sub))
+
+# Starts with
+print(s.startswith('Hello'))
