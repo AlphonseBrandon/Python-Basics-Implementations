@@ -19,4 +19,5 @@ print(f'Hello, my name is {name} and i am {age}')
 
 # String Methods
 s = 'Hello Alphonse!'
-
+ # Capitalize string
+ print(s.capitalize())
