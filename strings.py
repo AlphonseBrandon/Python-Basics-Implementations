@@ -24,3 +24,6 @@ print(s.capitalize())
 
 # Make all upper case
 print(s.upper())
+
+# Make all lower case
+print(s.lower())
