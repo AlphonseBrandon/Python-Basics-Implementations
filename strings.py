@@ -16,4 +16,7 @@ print('My name is {name} and i am {age}'.format(name=name, age=age))
 
 # F -strings
 print(f'Hello, my name is {name} and i am {age}')
+
 # String Methods
+s = 'Hello Alphonse!'
+
