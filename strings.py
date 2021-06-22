@@ -43,3 +43,6 @@ print(s.count(sub))
 
 # Starts with
 print(s.startswith('Hello'))
+
+# Split into a list
+print(s.split())
