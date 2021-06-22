@@ -46,3 +46,6 @@ print(s.startswith('Hello'))
 
 # Split into a list
 print(s.split())
+
+# Find position
+print(s.find('n'))
