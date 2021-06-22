@@ -58,3 +58,6 @@ print(s.isalpha())
 
 # is all numeric
 print(s.isnumeric())
+
+# Center
+print(s.center(10))
