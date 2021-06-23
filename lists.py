@@ -16,3 +16,7 @@ print(fruits[-1])
 
 # Get length
 print(len(fruits))
+
+# Append to list 
+fruits.append('Mangos')
+print(fruits)
