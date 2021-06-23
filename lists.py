@@ -10,3 +10,6 @@ print(numbers2)
 
 # Get a value
 print(fruits[1])
+
+# Get the last value
+print(fruits[-1])
