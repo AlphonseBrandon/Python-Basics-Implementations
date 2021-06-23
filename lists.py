@@ -24,3 +24,7 @@ print(fruits)
 # Remove from list
 fruits.remove('Grapes')
 print(fruits)
+
+# Insert into position
+fruits.insert(2, 'Strawberries')
+print(fruits)
