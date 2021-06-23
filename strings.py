@@ -67,3 +67,5 @@ print(s.encode(encoding="utf-8", errors="strict"))
 
 # Expandtabs
 print(s.expandtabs(tabsize= 4))
+
+print(s)
