@@ -36,3 +36,7 @@ print(fruits)
 # Remove with pop
 fruits.pop(2)
 print(fruits)
+
+# Sort list
+fruits.sort(reverse=False)
+print(fruits)
