@@ -32,3 +32,7 @@ print(fruits)
 # Change value
 fruits[0] = 'Blueberries'
 print(fruits)
+
+# Remove with pop
+fruits.pop(2)
+print(fruits)
