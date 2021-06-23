@@ -40,3 +40,7 @@ print(fruits)
 # Sort list
 fruits.sort(reverse=False)
 print(fruits)
+
+# Reverse sort
+fruits.sort(reverse=True)
+print(fruits)
