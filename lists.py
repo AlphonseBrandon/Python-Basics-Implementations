@@ -20,3 +20,7 @@ print(len(fruits))
 # Append to list 
 fruits.append('Mangos')
 print(fruits)
+
+# Remove from list
+fruits.remove('Grapes')
+print(fruits)
