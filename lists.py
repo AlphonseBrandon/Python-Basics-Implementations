@@ -28,3 +28,7 @@ print(fruits)
 # Insert into position
 fruits.insert(2, 'Strawberries')
 print(fruits)
+
+# Change value
+fruits[0] = 'Blueberries'
+print(fruits)
