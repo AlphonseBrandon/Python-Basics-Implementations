@@ -4,9 +4,12 @@
 fruits = ('Apples', 'Oranges', 'Grapes') 
 print(fruits)
 
-# Using a constructor
-fruits2 = tuple('Apples Orange')
+# Single value needs tailing comma
+fruits2 = ('Apples',)
 print(fruits2)
+# Using a constructor
+fruits3 = tuple('Apples',)
+print(fruits3)
 
 
 # A Set is a collection which is unordered and unindexed. No duplicate members.
