@@ -14,5 +14,7 @@ print(fruits3)
 # Get value
 print(fruits[0])
 
+# Can't change value
+fruits[0] = 'Pears'
 
 # A Set is a collection which is unordered and unindexed. No duplicate members.
