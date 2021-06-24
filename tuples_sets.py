@@ -22,4 +22,6 @@ del fruits2
 
 # Get lenth
 print(len(fruits))
+
 # A Set is a collection which is unordered and unindexed. No duplicate members.
+# Create set
