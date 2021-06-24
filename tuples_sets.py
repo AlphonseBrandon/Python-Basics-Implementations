@@ -15,6 +15,8 @@ print(fruits3)
 print(fruits[0])
 
 # Can't change value
-fruits[0] = 'Pears'
+#fruits[0] = 'Pears'
 
+# Delete tuple
+del fruits2
 # A Set is a collection which is unordered and unindexed. No duplicate members.
