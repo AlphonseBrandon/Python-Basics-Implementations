@@ -42,3 +42,5 @@ print(fruits_set)
 fruits_set.add('Apples')
 print(fruits_set)
 
+# Clear set
+fruits_set.clear()
