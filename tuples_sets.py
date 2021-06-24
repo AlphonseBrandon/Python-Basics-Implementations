@@ -11,5 +11,8 @@ print(fruits2)
 fruits3 = tuple('Apples',)
 print(fruits3)
 
+# Get value
+print(fruits[0])
+
 
 # A Set is a collection which is unordered and unindexed. No duplicate members.
