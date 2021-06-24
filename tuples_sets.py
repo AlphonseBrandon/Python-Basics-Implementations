@@ -32,4 +32,6 @@ fruits_set = {'Apples', 'Oranges', 'Mango'}
 print('Apples' in fruits_set)
 
 # Add to set
-fruits_set.add('Grape')
+fruits_set.add('Grapes')
+print(fruits_set)
+# 
