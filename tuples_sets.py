@@ -27,3 +27,6 @@ print(len(fruits))
 # Create set
 
 fruits_set = {'Apples', 'Oranges', 'Mango'}
+
+# Check if in set
+print('Apples' in fruits_set)
