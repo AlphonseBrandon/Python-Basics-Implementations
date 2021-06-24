@@ -25,3 +25,5 @@ print(len(fruits))
 
 # A Set is a collection which is unordered and unindexed. No duplicate members.
 # Create set
+
+fruits_set = {'Apples', 'Oranges', 'Mango'}
