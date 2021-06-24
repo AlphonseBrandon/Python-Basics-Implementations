@@ -34,4 +34,4 @@ print('Apples' in fruits_set)
 # Add to set
 fruits_set.add('Grapes')
 print(fruits_set)
-# 
+# Remove from set
