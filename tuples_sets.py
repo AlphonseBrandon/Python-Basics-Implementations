@@ -47,3 +47,4 @@ fruits_set.clear()
 print(fruits_set)
 
 # Delete
+del fruits_set
