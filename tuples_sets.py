@@ -44,3 +44,4 @@ print(fruits_set)
 
 # Clear set
 fruits_set.clear()
+print(fruits_set)
