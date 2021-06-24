@@ -48,3 +48,5 @@ print(fruits_set)
 
 # Delete
 del fruits_set
+
+print(fruits_set)
