@@ -30,3 +30,6 @@ fruits_set = {'Apples', 'Oranges', 'Mango'}
 
 # Check if in set
 print('Apples' in fruits_set)
+
+# Add to set
+fruits_set.add('Grape')
