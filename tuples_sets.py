@@ -50,3 +50,5 @@ print(fruits_set)
 del fruits_set
 
 print(fruits_set)
+
+#set
