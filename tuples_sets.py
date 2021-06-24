@@ -39,4 +39,6 @@ fruits_set.remove('Grapes')
 print(fruits_set)
 
 # Add duplicate
+fruits_set.add('Apples')
+print(fruits_set)
 
