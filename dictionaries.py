@@ -4,6 +4,7 @@
 # Create dict
 person = {
     'first_name': 'Alphonse',
-    'last_name': 'Brandon'
+    'last_name': 'Brandon',
     'Age': 30
 }
+print(person)
