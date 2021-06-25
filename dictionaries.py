@@ -10,3 +10,4 @@ person = {
 print(person)
 
 # Using constructors
+person2 = dict(first_name='Alp', last_name='brand', age='80')
