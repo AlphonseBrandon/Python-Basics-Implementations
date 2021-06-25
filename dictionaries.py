@@ -8,3 +8,5 @@ person = {
     'Age': 30
 }
 print(person)
+
+# Using constructors
