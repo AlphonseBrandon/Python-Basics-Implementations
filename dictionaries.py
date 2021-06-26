@@ -39,3 +39,6 @@ print(person)
 # Clear 
 person.clear()
 print(person)
+
+# Get length
+print(len(person2))
