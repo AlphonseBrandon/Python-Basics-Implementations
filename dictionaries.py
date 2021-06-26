@@ -29,3 +29,5 @@ print(person.items())
 # Copy dict
 person2 = person.copy()
 print(person2)
+
+# Remove item
