@@ -18,3 +18,4 @@ print(person['first_name'])
 print(person['last_name'])
 
 # Add key or value
+person['phone'] = '123-324-133'
