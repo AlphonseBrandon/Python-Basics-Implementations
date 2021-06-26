@@ -32,6 +32,8 @@ print(person2)
 
 # Remove  item
 del(person['Age'])
+person.pop('phone')
 print(person)
+
 
 # Clear 
