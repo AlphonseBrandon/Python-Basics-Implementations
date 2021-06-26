@@ -48,3 +48,4 @@ people = [
     {'name': 'Alphonse', 'age': 40},
     {'name': 'Brandon', 'Age': 40}
 ]
+print(people)
