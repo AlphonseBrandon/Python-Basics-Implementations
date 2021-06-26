@@ -25,3 +25,6 @@ print(person.keys())
 
 # Get dict items
 print(person.items())
+
+# Copy dict
+person2 = person.copy()
