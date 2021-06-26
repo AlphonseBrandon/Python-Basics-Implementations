@@ -21,3 +21,4 @@ print(person['last_name'])
 person['phone'] = '123-324-133'
 
 # Get dict keys
+print(person.keys())
