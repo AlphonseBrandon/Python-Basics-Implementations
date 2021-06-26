@@ -37,3 +37,5 @@ print(person)
 
 
 # Clear 
+person.clear()
+print(person)
