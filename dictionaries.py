@@ -42,3 +42,9 @@ print(person)
 
 # Get length
 print(len(person2))
+
+# List of dict
+people = [
+    {'name': 'Alphonse', 'age': 40},
+    {'name': 'Brandon', 'Age': 40}
+]
