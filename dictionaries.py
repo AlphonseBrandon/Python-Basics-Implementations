@@ -33,3 +33,5 @@ print(person2)
 # Remove  item
 del(person['Age'])
 print(person)
+
+# Clear 
