@@ -14,3 +14,4 @@ person2 = dict(first_name='Alp', last_name='brand', age='80')
 print(person2)
 
 # Get Value
+print(person['first_name'])
