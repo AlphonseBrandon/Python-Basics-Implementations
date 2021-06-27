@@ -13,6 +13,7 @@ myFile.write('I am an ML engineer')
 myFile.write('Alphonse Brandon')
 myFile.close() 
 
+# Append to a file
 
 
 # Read to file
