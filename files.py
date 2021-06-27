@@ -7,3 +7,6 @@ myFile = open('myfile.txt', 'w')
 print('Name:', myFile.name)
 print('Is closed :', myFile.closed)
 print('Opening Mode: ', myFile.mode)
+
+# Write to file
+myFile.write('I am an ML engineer')
