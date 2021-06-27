@@ -16,6 +16,7 @@ myFile.close()
 # Append to a file
 myFile = open('myfile.tex', 'a')
 myFile.write('I am also a datascientist')
+myFile.close()
 
 # Read to file
 myFile = open('myfile.text', 'r+')
