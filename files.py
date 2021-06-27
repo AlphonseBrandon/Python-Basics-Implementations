@@ -16,3 +16,6 @@ myFile.close()
 
 
 # Read to file
+myFile = open('myfile.text', 'r+')
+text = myFile.read(100)
+print(text)
