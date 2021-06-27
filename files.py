@@ -4,3 +4,4 @@
 myFile = open('myfile.txt', 'w')
 
 # Get some info
+print('Name:', myFile.name)
