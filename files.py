@@ -14,7 +14,7 @@ myFile.write('Alphonse Brandon')
 myFile.close() 
 
 # Append to a file
-
+myFile = open('myfile.tex', 'a')
 
 # Read to file
 myFile = open('myfile.text', 'r+')
