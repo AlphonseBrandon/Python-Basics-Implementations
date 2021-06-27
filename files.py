@@ -12,3 +12,7 @@ print('Opening Mode: ', myFile.mode)
 myFile.write('I am an ML engineer')
 myFile.write('Alphonse Brandon')
 myFile.close() 
+
+
+
+# Read to file
