@@ -6,3 +6,4 @@ myFile = open('myfile.txt', 'w')
 # Get some info
 print('Name:', myFile.name)
 print('Is closed :', myFile.closed)
+print('Opening Mode: ', myFile.mode)
