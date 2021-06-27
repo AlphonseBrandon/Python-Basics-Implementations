@@ -2,3 +2,5 @@
 
 # Open a file
 myFile = open('myfile.txt', 'w')
+
+# Get some info
