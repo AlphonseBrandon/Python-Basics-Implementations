@@ -10,3 +10,5 @@ print('Opening Mode: ', myFile.mode)
 
 # Write to file
 myFile.write('I am an ML engineer')
+myFile.write('Alphonse Brandon')
+myFile.close() 
