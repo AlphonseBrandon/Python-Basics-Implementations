@@ -22,3 +22,5 @@ myFile.close()
 myFile = open('myfile.text', 'r+')
 text = myFile.read(100)
 print(text)
+
+# End
