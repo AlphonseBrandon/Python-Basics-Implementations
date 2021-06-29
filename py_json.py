@@ -9,3 +9,4 @@ userJSON = '{"first_name": "Alphonse", "last_name": "Brandon", "Age": 40}'
 
 # Parse to dict
 user = json.loads(userJSON)
+print(user)
