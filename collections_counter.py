@@ -12,3 +12,6 @@ for char in char_list:
         custom_counter[char] = 1
     else:
         custom_counter[char] += 1
+print(custom_counter)
+
+print(Counter(char_list))
