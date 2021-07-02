@@ -19,4 +19,5 @@ class Cat(Animal):
         print(f'{self.name} says: Meows')
 
 Dog('Jack').make_sound()
+Cat('Bella').make_sound()
 
