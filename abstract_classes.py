@@ -13,3 +13,8 @@ class Animal(ABC):
 class Dog(Animal):
     def make_sound(self):
         print(f'{self.name} says: woof')
+
+class Cat(Animal):
+    def make_sound(self):
+        print(f'{self.name} says: Meows')
+
