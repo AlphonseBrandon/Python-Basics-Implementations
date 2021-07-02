@@ -4,7 +4,7 @@ class Animal(ABC):
 
     def __init__(self, name: str):
         self.name = name
-        super().__init()
+        super().__init__()
 
     @abstractmethod
     def make_sound(self):
@@ -17,4 +17,6 @@ class Dog(Animal):
 class Cat(Animal):
     def make_sound(self):
         print(f'{self.name} says: Meows')
+
+Dog('Jack').make_sound()
 
