@@ -29,7 +29,7 @@ print(fruits)
 fruits.insert(2, 'Strawberries')
 print(fruits)
 
-# Change value
+# swap
 fruits[0] = 'Blueberries'
 print(fruits)
 
