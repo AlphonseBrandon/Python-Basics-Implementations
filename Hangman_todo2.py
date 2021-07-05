@@ -16,6 +16,5 @@ print(display)
 for position in range(len(chosen_word)):
     letter = chosen_word[position]
     if letter == guess:
-        print("Right!")
-    else:
-        print("wrong")
+        display[position] = letter
+    
