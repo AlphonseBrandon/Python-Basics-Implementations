@@ -8,8 +8,9 @@ print(f'the solution is {chosen_word}')
 guess = input("Guess a later").lower()
 
 display = []
+word_lenth = len(chosen_word)
 
-for _ in range(len(chosen_word)):
+for _ in range(len(word_lenth)):
     display += "_"
 print(display)
 
@@ -18,3 +19,4 @@ for position in range(len(chosen_word)):
     if letter == guess:
         display[position] = letter
     
+print(display)
