@@ -12,3 +12,10 @@ display = []
 for _ in range(len(chosen_word)):
     display += "_"
 print(display)
+
+for position in range(len(chosen_word)):
+    letter = chosen_word[position]
+    if letter == guess:
+        print("Right!")
+    else:
+        print("wrong")
