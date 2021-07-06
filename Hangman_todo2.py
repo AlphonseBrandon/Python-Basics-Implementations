@@ -29,3 +29,4 @@ while not end_of_game:
         print("You win")
 
         # import modules from other file
+        # import ascii art 
