@@ -10,4 +10,6 @@ for char in char_list:
     else:
         custom_char[char] += 1
 
+print(custom_char)
+
 
