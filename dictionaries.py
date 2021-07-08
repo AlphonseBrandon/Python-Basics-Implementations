@@ -6,7 +6,7 @@ person = {
     'first_name': 'Alphonse',
     'last_name': 'Brandon',
     'Age': 30
-    'role': 'Data'
+    'role': 'Data scie'
 }
 print(person)
 
