@@ -15,8 +15,8 @@ l = list(a)
 i = 0
 print(l)
 
-if '' in a:
+while ' ' in a:
     i += 1
-
+    break
 print(i)
 
