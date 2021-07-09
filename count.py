@@ -15,7 +15,4 @@ l = list(a)
 
 print(l)
 
-for '' in a:
-    Counter += 1
-    break
-print(Counter)
+
