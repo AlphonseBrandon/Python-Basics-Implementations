@@ -15,5 +15,8 @@ l = list(a)
 i = 0
 print(l)
 
-for 
+if '' in a:
+    i += 1
+
+print(i)
 
