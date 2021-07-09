@@ -12,7 +12,8 @@ for letter in a:
     print(letter)
 
 l = list(a)
-
+i = 0
 print(l)
 
+for 
 
