@@ -10,3 +10,5 @@ n = int(f)
 number = f - n
 
 print(number)
+
+# Neg
