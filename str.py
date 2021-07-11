@@ -12,4 +12,4 @@ number = f - n
 print(number)
 
 # Negative
-num2
+num2 = n - f
