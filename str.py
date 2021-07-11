@@ -11,4 +11,4 @@ number = f - n
 
 print(number)
 
-# Neg
+# Negative
