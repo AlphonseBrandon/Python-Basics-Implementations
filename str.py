@@ -14,4 +14,4 @@ print(number)
 # Negative
 num2 = n - f
 
-print
+print(num2)
