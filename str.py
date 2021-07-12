@@ -1,3 +1,5 @@
+# Program to display only the fractional part of a float
+
 # promting user to input a float
 
 
