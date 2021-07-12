@@ -1,6 +1,6 @@
 # Program to display only the fractional part of a float
-
 # version 13.07.2021
+# Author: Alphonse Brandon
 
 # promting user to input a float
 
