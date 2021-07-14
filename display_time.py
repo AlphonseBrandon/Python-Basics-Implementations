@@ -6,4 +6,6 @@ time_in_seconds = int(input("what is the number of seconds"))
 
 hours = time_in_seconds // 3600
 
+seconds_remaining = time_in_seconds % 3600
 minutes = hours // 60
+
