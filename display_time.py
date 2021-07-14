@@ -3,3 +3,5 @@
 # Author Alphonse Brandon
 
 time_in_seconds = int(input("what is the number of seconds"))
+
+hours = time_in_seconds // 3600
