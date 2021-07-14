@@ -12,6 +12,6 @@ minutes = seconds_remaining // 60
 
 seconds_left = seconds_remaining % 60
 
-print(f"hrs: {hours} mins: {minutes} secs: {seconds_left}")
+print(f"hrs: {hours} \n mins: {minutes} \nsecs: {seconds_left}")
 
 
