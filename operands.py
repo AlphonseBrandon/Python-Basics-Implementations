@@ -10,3 +10,5 @@ print(n)
 m = 7 // 4
 
 print(m)
+
+s = int(3.94)
