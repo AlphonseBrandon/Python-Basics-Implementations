@@ -10,4 +10,6 @@ seconds_remaining = time_in_seconds % 3600
 
 minutes = seconds_remaining // 60
 
+seconds_left = seconds_remaining % 60
+
 
