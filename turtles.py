@@ -3,3 +3,5 @@
 # Author: Alphonse Brandon
 
 import turtle
+
+window = turtle.Screen() # Create a playground for turtles
