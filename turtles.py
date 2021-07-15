@@ -7,3 +7,5 @@ import turtle
 window = turtle.Screen() # Create a playground for turtles
 
 alex = turtle.Turtle() # create a turtle asign to alex
+
+alex.forward(50) # telling alex to move by 50 units forward
