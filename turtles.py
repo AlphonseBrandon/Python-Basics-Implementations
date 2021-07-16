@@ -12,4 +12,4 @@ alex.forward(50) # telling alex to move by 50 units forward
 alex.left(90) # move left 
 alex.forward(50)
 
-window.mainloop() # Wait for the user to close main loop
+window.mainloop() # method to Wait for the user to close main loop
