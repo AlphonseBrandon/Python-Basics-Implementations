@@ -4,7 +4,7 @@
 
 time_in_seconds = int(input("what is the number of seconds"))
 
-hours = time_in_seconds // 3600 # Get
+hours = time_in_seconds // 3600 # Get number of hours
 
 seconds_remaining = time_in_seconds % 3600
 
