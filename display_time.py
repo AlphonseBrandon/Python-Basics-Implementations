@@ -8,7 +8,7 @@ hours = time_in_seconds // 3600 # Get number of hours
 
 seconds_remaining = time_in_seconds % 3600
 
-minutes = seconds_remaining // 60
+minutes = seconds_remaining // 60 # Compute seconds left
 
 seconds_left = seconds_remaining % 60
 
