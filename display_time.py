@@ -4,7 +4,7 @@
 
 time_in_seconds = int(input("what is the number of seconds"))
 
-hours = time_in_seconds // 3600
+hours = time_in_seconds // 3600 # Get
 
 seconds_remaining = time_in_seconds % 3600
 
@@ -12,6 +12,6 @@ minutes = seconds_remaining // 60
 
 seconds_left = seconds_remaining % 60
 
-print(f"hrs: {hours} \n mins: {minutes} \nsecs: {seconds_left}")
+print(f"hrs: {hours} \n mins: {minutes} \nsecs: {seconds_left}") # Print hours
 
 
