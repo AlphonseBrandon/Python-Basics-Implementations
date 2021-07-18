@@ -1,6 +1,6 @@
 # program to display time
 # version 14.07.2021 at 21:39
-# Version update 18.07.2021
+# Version update 18.07.2021 at 
 # Author Alphonse Brandon
 
 time_in_seconds = int(input("what is the number of seconds"))
