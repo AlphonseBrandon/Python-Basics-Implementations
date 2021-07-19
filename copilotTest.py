@@ -4,5 +4,6 @@
 
 print("Github Copilot!")
 
-def FunctionName(args):
-    
+# Covert from decimal to binary
+
+   
