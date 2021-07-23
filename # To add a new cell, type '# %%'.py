@@ -4,6 +4,6 @@
 # %% [markdown]
 
 # %%
-print("Hello Alphonse!")
+print("Hello Alphonse")
 
 
