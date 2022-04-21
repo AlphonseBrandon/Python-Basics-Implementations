@@ -3,6 +3,8 @@
 # Create list
 numbers = [1, 2, 3, 4, 5]
 fruits = ['Apples', 'Oranges', 'Grapes', 'Pears']
+animals = ['Dog', 'Cat', 'Goat']
+
 
 # Using a constructor
 numbers2 = list((1, 2, 3, 4, 5))
