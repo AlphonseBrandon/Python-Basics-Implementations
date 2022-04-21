@@ -3,7 +3,7 @@
 # Create list
 numbers = [1, 2, 3, 4, 5]
 fruits = ['Apples', 'Oranges', 'Grapes', 'Pears']
-animals = ['Dog', 'Cat', 'Goat', 'Lion']
+animals = ['Dog', 'Cat', 'Goat', 'Lion', 'Giraff']
 
 
 # Using a constructor
